@@ -1,7 +1,7 @@
 # SocialTask Official Web
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/SocialTask/Web/tree/latest/)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/SocialTask/Web/tree/latest/)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/SocialTask/Web/tree/main/)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/SocialTask/Web/tree/main/)
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
